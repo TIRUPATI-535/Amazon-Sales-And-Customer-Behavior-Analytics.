@@ -1,4 +1,4 @@
-# 📊 Amazon-Sales-Customer-Behavior-Analytics.
+# 📊 Amazon Sales And Customer Behavior Analytics.
 
 ## 🚀 Project Overview
 
@@ -136,10 +136,6 @@ It provides actionable insights into sales trends, customer behavior, and pricin
 
 ## 🙌 Author
 
-** Tirupati Kundagir**
+** Tirupati Kundagir **
 
 ---
-
-## ⭐ If you like this project
-
-Give it a ⭐ on GitHub!
