@@ -136,6 +136,6 @@ It provides actionable insights into sales trends, customer behavior, and pricin
 
 ## 🙌 Author
 
-** Tirupati Kundagir **
+## Tirupati Kundagir 
 
 ---
